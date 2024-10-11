@@ -21,6 +21,7 @@ en qué estado está el repositorio y en qué branch están:
 
 Clonamos un repositorio de github con sólo un README
 
+A la nueva cuenta...
 ```
 git clone https://github.com/wtpc/HOgit.git
 cd HOgit
