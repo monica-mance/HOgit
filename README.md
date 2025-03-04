@@ -15,6 +15,7 @@ Esta es la edicion inicial, en el branch master
 
 .
 
+Ahora estoy dentro del branch charlas, y agrego este pedacito
 ## Qué podemos hacer
 
 ### Commits
