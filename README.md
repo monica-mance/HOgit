@@ -1,6 +1,20 @@
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
+## Tarea de Moni
+
+
+Clonado a la compu desde mi propio fork
+
+
+Esta es la edicion inicial, en el branch master
+
+.
+
+.
+
+.
+
 ## Qué podemos hacer
 
 ### Commits
